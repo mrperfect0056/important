@@ -155,8 +155,7 @@ def login():
                 jalan(' \033[1;92m     Notice:☞ \033[1;97mPray NAMAZ five time Daily' )
                 jalan(' \033[1;92m     Notice:☞ \033[1;97mwear mask on your mouth every time ' )
                 jalan(' \033[1;92m     Notice:☞ \033[1;97mDont go to in markets ' )
-		jalan(' \033[1;92m     Notice:☞ \033[1;97mwash your hands every 1 hour' )
-                jalan(' \033[1;92m    Warning:☞ \033[1;95mCloning k liay sirf indian link use karain' )
+		jalan(' \033[1;92m     Notice:☞ \033[1;97mwash your hands every 1 hour')
                 jalan('\033[1;92m    HACKING IS NOT CRIME IT'S A GAME AGAINST OF THE SYSTEM')
 		print "\033[1;95m      ◥◤◥◤◥◤◥◤◥◤◥◤•◈•\033[1;96mDark-Hacker\033[1;95m•◈•◥◤◥◤◥◤◥◤◥◤◥◤"
 		print('\033[1;93m◥◤◥◤◥◤◥◤◥◤◥◤◥◤LOGIN WITH FACEBOOK◥◤◥◤◥◤◥◤◥◤◥◤◥◤' )
